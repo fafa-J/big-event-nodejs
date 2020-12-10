@@ -1,0 +1,3 @@
+# 忽略 node 第三方模块
+package-lock.json
+node_modules
